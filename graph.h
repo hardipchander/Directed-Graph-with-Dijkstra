@@ -64,8 +64,7 @@ public :
 		return 0;
 	}
 
-	// The Dijkstra Algorithm and I will follow the pseudocde that Professor Stamos explained in class 
-	// My code will follow the logic of the code he gave from the slides 
+	// The Dijkstra Algorithm 
 	void Dijkstra(int vertex_number) {
 		// The two function set all vertex values like for known to false, for distance to infinity and sets up the adjacency vertices for each vertex 
 		BuildUpVertices();
