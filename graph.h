@@ -157,7 +157,7 @@ public :
 	}
 
 private :
-	// I will use this struct in part 2 of the project and Professor Stamos gave us this struct from class
+	// I will use this struct in part 2 of the project 
 	struct Vertex {
 
 		// number of the vertex (1,2....)
